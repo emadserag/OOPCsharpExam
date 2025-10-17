@@ -82,3 +82,8 @@ if (bookedVip.HasValue)
 {
     Hospital.ReleaseRoom(bookedVip.Value); //  301
 }
+
+
+
+
+
